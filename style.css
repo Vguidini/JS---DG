@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+header {
+    font-family: 'Dancing Script', cursive;
+}
+
+.btn {
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+body {
+    background-image: url(./bg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 200vh;
+    background-color: white;
+}
+
+p-10 {
+    padding: 100px;
+}
+
+table, th, td {
+    padding: 8px;
+    border:3px solid black;
+}
+
+.bgtable {
+    background-color: azure;
+}
+
+table {
+    
+    margin:auto
+}
+
+.txbg {
+    background-color: rgba(0, 0, 0, 0.233);
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
